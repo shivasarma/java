@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="HackerRank/src/|geeksForGeeks/src/|javaExperiments/src/|JavaFX/src/|projectGitLearning/src/|Sairam/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="geeksForGeeks/src"/>
+	<classpathentry kind="src" path="HackerRank/src"/>
+	<classpathentry kind="src" path="javaExperiments/src"/>
+	<classpathentry kind="src" path="JavaFX/src"/>
+	<classpathentry kind="src" path="projectGitLearning/src"/>
+	<classpathentry kind="src" path="Sairam/src"/>
+	<classpathentry kind="output" path="HackerRank/bin"/>
+</classpath>
